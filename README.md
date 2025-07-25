@@ -19,8 +19,8 @@ A simple and lightweight application that generates QR Codes from any URL or tex
 
 ```bash
 # Clone the repository
-git clone https://github.com/tulioanesio/qr-code-generator.git
-cd qr-code-generator
+git clone https://github.com/tulioanesio/QRCode-Project.git
+cd QRCode-Project
 
 # If using a bundler or dependency manager (like npm), install dependencies
 npm install
